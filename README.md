@@ -1,4 +1,6 @@
 ## Hi there 👋
+olá sou victor tenho 17 anos e sou ex atleta de muaytahi, jogador de volei e aluno de programação!!! 
+estou criando esse perfiu para publicar meus novos projetos e jogos.
 
 <!--
 **decalander/decalander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
